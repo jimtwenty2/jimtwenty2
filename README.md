@@ -1,6 +1,6 @@
  <div align="center">
 
-<table style="border-collapse: collapse; width:90%; background-color:#0f111a; border-radius:10px; text-align:center; margin:auto;">
+<table style="border-collapse: collapse; width:100%; background-color:#0f111a; border-radius:10px; text-align:center; margin:auto;">
 <tr>
 <td style="background-color:#1f2233; padding:8px; text-align:center;">
 
