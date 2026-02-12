@@ -10,7 +10,7 @@
 <span style="color:#27c93f;">⬤</span>
 <!-- Terminal prompt -->
 <span style="color:#a1a1a1; font-size:13px;">
-jimmmmmm@kali: ~ cat aboutme.txt
+jimmmmmm@root: ~ cat aboutme.txt
 </span>
 
 </td>
