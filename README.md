@@ -1,1 +1,1 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jimtwenty2?cardType=github&theme=github-dark&fontFamily=Anonymous%20Pro&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jimtwenty2?cardType=github&theme=blue-green&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
